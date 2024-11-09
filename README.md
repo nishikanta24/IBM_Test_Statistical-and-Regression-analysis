@@ -4,11 +4,11 @@ This project aims to explore and analyze the Boston Housing dataset. The analysi
 
 ## Objective
 
-The primary goal of this project is to:
+**The primary goal of this project is to:**
 
-- Analyze the distribution and characteristics of different variables in the dataset.
-- Use statistical tests to answer questions about the relationships between key factors and the median value of homes.
-- Visualize the dataset using different charts to gain insights into the variables.
+- **Analyze** the distribution and characteristics of different variables in the dataset.
+- **Use statistical tests** to answer questions about the relationships between key factors and the median value of homes.
+- **Visualize the dataset** using different charts to gain insights into the variables.
 
 ## Dataset Overview
 
